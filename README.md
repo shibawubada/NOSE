@@ -1,2 +1,5 @@
 # NOSE
-networks and operating systems
+## python
+### networks and operating systems
+### process scheduler app, python OOP
+
